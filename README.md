@@ -38,6 +38,7 @@ A sleek, modern Flutter application for discovering and tracking movies — powe
     <tr>
       <td><img src="assets/photo_4.jpeg" width="200" style="border:1px solid black"/></td>
       <td><img src="assets/photo_3.jpeg" width="200" style="border:1px solid black"/></td>
+      <td><img src="assets/photo_5.jpeg" width="200" style="border:1px solid black"/></td>
       <td><img src="assets/photo_2.jpeg" width="200" style="border:1px solid black"/></td>
     </tr>
   </table>
